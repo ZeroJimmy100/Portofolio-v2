@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5b9b8ab.chunk.css",
+    "main.js": "/static/js/main.2ad2b479.chunk.js",
+    "main.js.map": "/static/js/main.2ad2b479.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d541871b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d541871b.js.map",
+    "static/js/2.8866889a.chunk.js": "/static/js/2.8866889a.chunk.js",
+    "static/js/2.8866889a.chunk.js.map": "/static/js/2.8866889a.chunk.js.map",
+    "static/js/3.a5da8086.chunk.js": "/static/js/3.a5da8086.chunk.js",
+    "static/js/3.a5da8086.chunk.js.map": "/static/js/3.a5da8086.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b5b9b8ab.chunk.css.map": "/static/css/main.b5b9b8ab.chunk.css.map",
+    "static/js/2.8866889a.chunk.js.LICENSE.txt": "/static/js/2.8866889a.chunk.js.LICENSE.txt",
+    "static/media/Alex.0816feb8.jpg": "/static/media/Alex.0816feb8.jpg",
+    "static/media/BEscape.ed502a9f.png": "/static/media/BEscape.ed502a9f.png",
+    "static/media/CardGame.25175f0e.png": "/static/media/CardGame.25175f0e.png",
+    "static/media/HangMan.35b499ed.png": "/static/media/HangMan.35b499ed.png",
+    "static/media/IMG_0041.5d0266fb.JPG": "/static/media/IMG_0041.5d0266fb.JPG",
+    "static/media/OpenWorld.cad6a0cb.png": "/static/media/OpenWorld.cad6a0cb.png",
+    "static/media/Quote.b33d0de3.png": "/static/media/Quote.b33d0de3.png",
+    "static/media/Randy.c81127fd.jpg": "/static/media/Randy.c81127fd.jpg",
+    "static/media/Survey.5c46f5f1.png": "/static/media/Survey.5c46f5f1.png",
+    "static/media/email.f33e9d73.png": "/static/media/email.f33e9d73.png",
+    "static/media/github_PNG45.eccaac2d.png": "/static/media/github_PNG45.eccaac2d.png",
+    "static/media/linkedin2.73c9f324.png": "/static/media/linkedin2.73c9f324.png",
+    "static/media/phone.ad0ed368.png": "/static/media/phone.ad0ed368.png",
+    "static/media/portfolioPic.8346c9b6.JPG": "/static/media/portfolioPic.8346c9b6.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d541871b.js",
+    "static/js/2.8866889a.chunk.js",
+    "static/css/main.b5b9b8ab.chunk.css",
+    "static/js/main.2ad2b479.chunk.js"
+  ]
+}
